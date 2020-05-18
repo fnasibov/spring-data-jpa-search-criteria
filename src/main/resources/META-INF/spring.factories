@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.nasibov.datajpasearchcriteria.config.ConverterConfig
+org.springframework.boot.=com.nasibov.datajpasearchcriteria.config.ConverterConfig
